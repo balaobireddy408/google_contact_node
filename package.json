@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "googleapis": "^105.0.0"
+  },
+  "name": "googlecontacts_node",
+  "description": "[![Header](export-contacts.png \"Header\")](http://raajkhan.com/)",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raj-khan/google-contacts-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raj-khan/google-contacts-api/issues"
+  },
+  "homepage": "https://github.com/raj-khan/google-contacts-api#readme"
+}
